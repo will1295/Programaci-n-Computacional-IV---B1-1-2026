@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Calculo de total de consumo</h1>
+
+    <input type="number" id="total" 
+    placeholder="Escriba el total de la compra" min="0" step="0.01">
+    <input type="number" id="propina" 
+    placeholder="Escriba el porcentaje de la propina" min="0" step="0.01">
+    <select name="" id="metodo">
+        <option value="efectivo">Pago de efectivo</option>
+        <option value="tarjeta">Pago de tarjeta</option>
+    </select>
+    <button id="btnCalcular">Calcular</button>
+
+    <p>Total a pagar:  $<span id="resultado">0</span></p>
+    
+</body>
+<script src="escripts2.js"></script>
+</html>

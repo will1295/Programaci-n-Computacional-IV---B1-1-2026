@@ -1,0 +1,36 @@
+h1,h2{
+    color: red;
+}
+
+div p{
+    color: blue;
+}
+
+h1+p{
+    color: green;
+}
+
+ul>li{
+    color: blueviolet;
+}
+
+#otralista>li{
+    color: yellowgreen;
+}
+
+a:hover{
+    color: red;
+    font-size: 20pt;
+}
+
+button{
+    background-color: green;
+}
+
+button:hover{
+    background-color: greenyellow;
+}
+
+input[type="text"]{
+    background-color: red;
+}

@@ -1,0 +1,54 @@
+1.Una agencia de turismo opera diferentes hoteles
+    estos hoteles tienen un tarifa de precio por noche.
+    Asimismo el gobierno opera una tarifa por turismo
+    dependiendo de la localización del hotel:
+    -Playa 20%
+    -Bosque 15%
+    -Ciudad 25%
+Calcule con estos datos cuanto gastaria alguien que quisiera
+hacer una reserva de hotel. Ademas si hace el pago adelantado 
+con tarjeta tiene un descuento del 10%.
+
+2.Pepito Perez ha contratado una tarjeta de credito con BancoEstafa s.v.
+    en el contrato dice que el interes mensual es de un 35%.
+    El banco le dice a Pepito que para no generar intereses debe pagar
+    el total de lo que gasto en el mes. En caso contrario el banco
+    le generara un monto minimo igual a la mitad del interes generado.
+    Ej: Pepito gasta $200 -> Monto minimo: $35
+    Pepito debe ver cuanto debe pagar en su totalidad y el monto minimo.
+    A pepito le han dado un monto limite de 1100 dolares, si sobrepasa esta cantidad
+    entra en sobregiro que tiene un limite de 1700 dolares.
+    Si pepito entra en sobregiro el interes aumenta a un 45%.
+    Si excede este ultimo monto la tarjeta sera declinada.
+
+
+3. King Flyp trabaja de Uber, la empresa calcula automaticamente su ganancia
+    de la siguiente forma: cada kilometro recorrido se gana $1.10, luego
+    Uber se queda con un 20% de la ganancia y el resto le queda al conductor.
+    Ademas si el usuario deja propina esta es libre para el conductor.
+    Calcule cuanto gana el conductor por un viaje que realiza.
+
+
+4.En El Salvador los empleados tanto publicos como privados tienen derecho
+  a un aguinaldo. Dicho bono se calcula en base a los años trabajados:
+    -Menos de 1 año: Proporcional al tiempo
+    -De 1 a 3 años: 15 dias de salario
+    -De 4 a 10 años: 19 dias de salario
+    -De mas de 10: 21 dias de salario
+
+5. Maria Julia Antonia Hernandez Gutierrez de todos Los Angeles y Santos tiene
+    que pagar su recibo de luz, como Maria Julia Antonia Hernandez Gutierrez de todos
+     Los Angeles y Santos quiere saber si esta pagando lo correcto y no la estan
+     estafando Maria Julia Antonia Hernandez Gutierrez de todos Los Angeles y Santos
+     anota los kilowatts que gasta en su casa, como sabe que le cobran el kilowatt
+     a $0.20 Maria Julia Antonia Hernandez Gutierrez de todos Los Angeles y Santos
+     ingresa cuanto gasto en su casa para saber su costo real.
+     Ademas Maria Julia Antonia Hernandez Gutierrez de todos Los Angeles y Santos
+     tiene muy en cuenta que si paga fuera de la fecha de pago, tiene que pagar
+     una mora del 20% de su costo total.
+     Ayuda a Maria Julia Antonia Hernandez Gutierrez de todos Los Angeles y Santos
+     a saber cuanto debe pagar. 
+     Si a Maria Julia Antonia Hernandez Gutierrez de todos Los Angeles y Santos
+     le salen más de $50 dolares cuanto ella jura y perjura por Dios, Jesus
+     y Maria que ella vive sola y que no pueden salirle de ninguna forma más
+     de esa cantidad se va a enojar y puede infartarse.
