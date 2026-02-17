@@ -1,0 +1,48 @@
+1-Elaborar un programa utilizando js que contendrá lo siguiente:
+    *Un circulo rojo, un circulo amarillo y un circulo verde.
+    Al pasar el mouse sobre un circulo el color resaltara y
+    los demas permaneceran más oscuros.
+
+
+2-En una pagina colocar una imagen al centro y debajo de ella
+    tres miniaturas de otras imagenes, al hacerle click a   
+    una miniatura se reemplazará la imagen del centro, además
+    que al pasar el mouse sobre una miniatura se debe opacar.
+
+
+3-Una señora quiere hacer sus compras en el super, entonces empieza
+    a anotar lo que va a ir comprando con el nombre y la cantidad
+    de cosas dentro de una pagina web, esta pagina web va mostrando
+    cada nuevo elemento que la señora agrega para su compra y le
+    muestra tambien la cantida de cosas que lleva, esto se va
+    actualizando a medida la señora ingresa más cosas que debe comprar.
+    Realizar una pagina web que simule este comportamiento.
+
+4.Elaborar un panel de registro de productos a un inventario, 
+    dicho inventario debe contener lo siguiente:
+
+    *Un input para el ID del Producto con un formato.
+    *Un input numérico para la Cantidad.
+    *Un select con categorías.
+    *Un botón de Registrar
+    *Una tabla donde se muestran los productos
+
+El botón Registrar se deshabilita  sino
+    se cumplen tres condiciones simultáneas:
+
+*El ID tiene exactamente 8 caracteres y empieza con una letra.
+*La cantidad es mayor a 0.
+*No se ha seleccionado una categoría
+
+
+5.Elabore una lista de 10 personas con su información personal,
+    esta lista debe contar con un input y un select.
+
+    La lista debe buscar a la persona a medida que se vaya escribiend
+    su información:
+    Ej: Select con la opcion de nombre:
+     a -> alejandro, alba, ana
+     an -> ana
+
+La lista debe cambiarse dinamicamente cada vez que el usuario digita 
+en el input.
