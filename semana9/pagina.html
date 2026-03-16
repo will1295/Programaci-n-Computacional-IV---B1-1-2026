@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button id="miboton">Haz click y ve lo que pasa!</button>  
+    <p id="resultado"></p>
+</body>
+
+<script>
+    document.getElementById("miboton").addEventListener("click",function(){
+        let saludo = "Hola mundo usando ajax!"
+
+        fetch('saludo.php?saludo='+saludo)
+        .then(response =>response.text())
+        .then(data =>{
+            document.getElementById('resultado').innerHTML=data;
+        })
+        .catch(error =>{
+            console.error('Error: ',error)
+        });
+    });
+</script>
+
+
+
+</html>
